@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/rkshop-reactapp/static/css/main.f1be84ab.css",
-    "main.js": "/rkshop-reactapp/static/js/main.b92f30cf.js",
+    "main.js": "/rkshop-reactapp/static/js/main.fb961076.js",
     "index.html": "/rkshop-reactapp/index.html",
     "main.f1be84ab.css.map": "/rkshop-reactapp/static/css/main.f1be84ab.css.map",
-    "main.b92f30cf.js.map": "/rkshop-reactapp/static/js/main.b92f30cf.js.map"
+    "main.fb961076.js.map": "/rkshop-reactapp/static/js/main.fb961076.js.map"
   },
   "entrypoints": [
     "static/css/main.f1be84ab.css",
-    "static/js/main.b92f30cf.js"
+    "static/js/main.fb961076.js"
   ]
 }
