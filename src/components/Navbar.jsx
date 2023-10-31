@@ -12,7 +12,7 @@ const Navbar = () => {
 
         <NavLink to="/rkshop-reactapp/">
           <div className="ml-5 flex items-center text-white text-lg">
-          <img src="../NavLogo.png" className="lg:h-14 md:h-10 h-8 bg-white rounded-full mr-[1rem]" alt=""/> RK SHOP
+          <img src="../rkshop-reactapp/NavLogo.png" className="lg:h-14 md:h-10 h-8 bg-white rounded-full mr-[1rem]" alt=""/> RK SHOP
           </div>
         </NavLink>
 
