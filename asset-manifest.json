@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/rkshop-reactapp/static/css/main.f1be84ab.css",
+    "main.js": "/rkshop-reactapp/static/js/main.d39ff6b1.js",
+    "index.html": "/rkshop-reactapp/index.html",
+    "main.f1be84ab.css.map": "/rkshop-reactapp/static/css/main.f1be84ab.css.map",
+    "main.d39ff6b1.js.map": "/rkshop-reactapp/static/js/main.d39ff6b1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f1be84ab.css",
+    "static/js/main.d39ff6b1.js"
+  ]
+}
