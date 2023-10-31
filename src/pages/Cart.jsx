@@ -56,7 +56,7 @@ const Cart = () => {
     </div>) : 
     (<div className="w-screen h-[calc(100vh-80px)] flex flex-col gap-6 justify-center items-center">
       <h1 className="font-[600] text-xl">Your Cart is Empty !</h1>
-      <Link to={"/"}>
+      <Link to={"/rkshop-reactapp/"}>
         <button className="bg-[#16a34a] text-white text-md uppercase font-[600] py-3 px-10 rounded-md
         border-[#16a34a] border-2 hover:bg-white hover:text-[#16a34a] ease-in transition-all duration-300">
           Shop Now
