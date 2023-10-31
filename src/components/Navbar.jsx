@@ -10,18 +10,18 @@ const Navbar = () => {
     <div >
       <nav className="flex justify-between items-center h-20 max-w-6xl mx-auto">
 
-        <NavLink to="/">
+        <NavLink to="/rkshop-reactapp/">
           <div className="ml-5 flex items-center text-white text-lg">
           <img src="../NavLogo.png" className="lg:h-14 md:h-10 h-8 bg-white rounded-full mr-[1rem]" alt=""/> RK SHOP
           </div>
         </NavLink>
 
           <div className="flex items-center font-medium text-slate-100 mr-5 space-x-6">
-            <NavLink to="/">
+            <NavLink to="/rkshop-reactapp/">
               <p>Home</p>
             </NavLink>
 
-            <NavLink to="/cart">
+            <NavLink to="/rkshop-reactapp/cart">
               <div className="relative">
                   <FaShoppingCart className="text-2xl"/>
                   {
